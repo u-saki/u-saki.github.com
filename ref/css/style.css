@@ -1,0 +1,28 @@
+@import "_normalize";
+
+h1{font-family:"中ゴシックBBB";
+   font-size: 4em;
+   font-weight: 600;
+   margin-left: 120px;
+
+}
+
+
+h2{font-family: "太ゴ B101";
+   margin-left: 120px;
+   margin-bottom: 0;
+   
+	
+}
+
+li{list-style-type: none;
+   font-family:"Andale Mono";
+   margin-left: 80px;
+   line-height: 30px;
+  
+　　
+	
+}
+
+//li:first-letter{ background-color: #a4ecee
+}
