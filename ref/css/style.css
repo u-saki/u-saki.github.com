@@ -7,6 +7,8 @@ h1{font-family:"新ゴ L";
 
 }
 
+.right{float: left;}
+
 
 h2{font-family: "新ゴ L";
    margin-left: 120px;
@@ -24,5 +26,8 @@ li{list-style-type: none;
 	
 }
 
-//li:first-letter{ background-color: #a4ecee
+//li:first-letter{ background-color: #a4ece;
+
 }
+
+
