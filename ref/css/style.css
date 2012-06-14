@@ -1,6 +1,6 @@
 @import "_normalize";
 
-h1{font-family:"中ゴシックBBB";
+h1{font-family:"見出ゴMB1";
    font-size: 4em;
    font-weight: 600;
    margin-left: 120px;
@@ -8,7 +8,7 @@ h1{font-family:"中ゴシックBBB";
 }
 
 
-h2{font-family: "太ゴ B101";
+h2{font-family: "新ゴ";
    margin-left: 120px;
    margin-bottom: 0;
    
@@ -16,7 +16,7 @@ h2{font-family: "太ゴ B101";
 }
 
 li{list-style-type: none;
-   font-family:"Andale Mono";
+   font-family:"新ゴ";
    margin-left: 80px;
    line-height: 30px;
   
