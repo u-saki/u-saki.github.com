@@ -22,6 +22,7 @@ ul li{list-style-type: none;
    line-height: 30px;
    display: inline;
    position: inside;
+   text-decoration: none;
 　　
 }
 
