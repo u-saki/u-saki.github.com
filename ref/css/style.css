@@ -20,17 +20,14 @@ li{list-style-type: none;
    font-size: 30px;
    margin-left: 80px;
    line-height: 30px;
+   display: inline;
+　　
 }
 
 ul li a{line-height: 100px;
-　　display: inline;
-　　list-item-position: inside;
-
+　　
 }
 
-li:first-letter{ background-color: #a4ece;
-
-}
 
 
 .menue{font-family:"museo-sans";
