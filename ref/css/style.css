@@ -14,7 +14,7 @@ h2{font-family: "新ゴ L";
    margin-left: 120px;
    margin-bottom: 0;
    
-}
+}   
 
 ul li{list-style-type: none;
    
@@ -30,6 +30,11 @@ ul li{list-style-type: none;
 ul li a{line-height: 100px;
 　　
 }
+ul li #mail{   
+   font-size: 100px;
+}
+
+
 
 a:link{color:black;}
 a:visited{color:black;}
@@ -40,7 +45,7 @@ a:hover{background-color:#a4ecee;}
 	
 }
 
-ul li #mail{list-style-type: none;
+/*.menue ul li #mail{list-style-type: none;
    
    font-size: 5px;
    margin-left: 80px;
@@ -48,4 +53,5 @@ ul li #mail{list-style-type: none;
    display: inline;
    position: inside;
    text-decoration: none;}
+
 
