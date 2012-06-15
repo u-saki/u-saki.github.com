@@ -32,6 +32,7 @@ ul li a{line-height: 100px;
 }
 ul li#mail{   
    font-size: 20px;
+   list-style-image: url("img/mailmark.png");
 }
 
 address {
