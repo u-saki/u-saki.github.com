@@ -1,7 +1,7 @@
 @import "_normalize";
 
 h1{font-family:"新ゴ L";
-   font-size: 2em;
+   font-size: 5em;
    font-weight: 600;
    margin-left: 120px;
 
@@ -19,6 +19,7 @@ h2{font-family: "新ゴ L";
 
 li{list-style-type: none;
    font-family:"新ゴ";
+   font-size: 4em;
    margin-left: 80px;
    line-height: 30px;
   
