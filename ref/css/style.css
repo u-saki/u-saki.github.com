@@ -1,7 +1,7 @@
 @import "_normalize";
 
 h1{font-family:"learning-curve-dashed";
-   font-weight: normal;
+   /*font-weight: normal;*/
    font-size: 10em;
    /*font-weight: 600;*/
    margin-left: 100px;
