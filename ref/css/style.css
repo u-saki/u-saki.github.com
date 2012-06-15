@@ -7,35 +7,29 @@ h1{font-family:"learning-curve-dashed";
 
 }
 
-.right{float: left;}
 
 
 h2{font-family: "新ゴ L";
    margin-left: 120px;
    margin-bottom: 0;
    
-	
 }
 
-li {list-style-type: none;
+li{list-style-type: none;
    
-   font-size: 4em;
+   font-size: 1em;
    margin-left: 80px;
    line-height: 30px;
 }
 
-ul li a {
-	
-line-height: 100px;
+ul li a{line-height: 100px;
 
 }
 
-//li:first-letter{ background-color: #a4ece;
+li:first-letter{ background-color: #a4ece;
 
 }
-p {
-	font-size: medium;
-}
+
 
 .menue{font-family:"museo-sans";
 	
