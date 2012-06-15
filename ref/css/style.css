@@ -18,7 +18,7 @@ h2{font-family: "新ゴ L";
 }
 
 li {list-style-type: none;
-   font-family:"ff-netto-web";
+   
    font-size: 4em;
    margin-left: 80px;
    line-height: 30px;
@@ -27,6 +27,7 @@ li {list-style-type: none;
 ul li a {
 	
 line-height: 100px;
+font-family:"ff-netto-web";
 }
 
 //li:first-letter{ background-color: #a4ece;
