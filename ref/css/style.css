@@ -1,6 +1,6 @@
 @import "_normalize";
 
-h1{font-family:"新ゴ L";
+h1{font-family:"trajan-pro";
    font-size: 5em;
    font-weight: 600;
    margin-left: 120px;
@@ -17,18 +17,23 @@ h2{font-family: "新ゴ L";
 	
 }
 
-li{list-style-type: none;
+li {list-style-type: none;
    font-family:"新ゴ";
    font-size: 4em;
    margin-left: 80px;
    line-height: 30px;
-  
-　　
+}
+
+ul li a {
 	
+line-height: 100px;
 }
 
 //li:first-letter{ background-color: #a4ece;
 
+}
+p {
+	font-size: medium;
 }
 
 
