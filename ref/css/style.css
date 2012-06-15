@@ -1,7 +1,7 @@
 @import "_normalize";
 
 h1{font-family:"learning-curve-dashed";
-   font-size: 10em;
+   font-size: 50px;
    /*font-weight: 600;*/
    margin-left: 120px;
 
@@ -17,7 +17,7 @@ h2{font-family: "新ゴ L";
 
 li{list-style-type: none;
    
-   font-size: 10px;
+   font-size: 30px;
    margin-left: 80px;
    line-height: 30px;
 }
