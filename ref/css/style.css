@@ -23,6 +23,8 @@ li{list-style-type: none;
 }
 
 ul li a{line-height: 100px;
+　　display: inline;
+　　list-item-position: inside;
 
 }
 
