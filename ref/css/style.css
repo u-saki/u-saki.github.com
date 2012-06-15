@@ -30,11 +30,14 @@ ul li{list-style-type: none;
 ul li a{line-height: 100px;
 　　
 }
-ul li #mail{   
-   font-size: 100px;
+ul li#mail{   
+   font-size: 20px;
 }
 
-
+address {
+	display: inline;
+	font-style: normal;
+}
 
 a:link{color:black;}
 a:visited{color:black;}
