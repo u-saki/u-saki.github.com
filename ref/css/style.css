@@ -46,12 +46,16 @@ a:visited{color:black;}
 a:hover{background-color:#a4ecee;}
 
 a.yellow:hover{background-color:#fff700;}
-a.orange:hover{background-color:#ff963a;}
+a.pink:hover{background-color:#ff6bab;}
 
 
 
 .menue{font-family:"museo-sans";
 	
+}
+
+.hitori1{margin:0　0　50px　0;
+	 
 }
 
 /*.menue ul li #mail{list-style-type: none;
