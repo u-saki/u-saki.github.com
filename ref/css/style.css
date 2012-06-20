@@ -33,6 +33,7 @@ ul li a{line-height: 100px;
 ul li#mail{   
    font-size: 20px;
    list-style-image: url("img/mailmark.png");
+   
 }
 
 address {
@@ -43,6 +44,10 @@ address {
 a:link{color:black;}
 a:visited{color:black;}
 a:hover{background-color:#a4ecee;}
+
+a.yellow:hover{background-color:#fff700;}
+a.orange:hover{background-color:#ff963a;}
+
 
 
 .menue{font-family:"museo-sans";
