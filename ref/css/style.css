@@ -58,6 +58,12 @@ a.pink:hover{background-color:#ff6bab;}
 	 
 }
 
+a.facebook{font-size: 20px;
+}
+a.facebook:hover{background-color:#ffab00;
+	
+}
+
 /*.menue ul li #mail{list-style-type: none;
    
    font-size: 5px;
