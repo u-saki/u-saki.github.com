@@ -15,6 +15,9 @@ h2{font-family: "新ゴ L";
    
 }   
 
+
+   
+   
 ul li{list-style-type: none;
    
    font-size: 25px;
@@ -115,6 +118,10 @@ ul.ie a:hover {
 
 ul.foot{font-family:"museo-sans";
 	
+	}
+
+#copy{font-size:15px;
+	display:inline;
 }
 
 
