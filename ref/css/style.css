@@ -2,13 +2,11 @@
 
 h1{font-family:"learning-curve-dashed";
    /*font-weight: normal;*/
-   font-size: 10em;
+   font-size: 7em;
    /*font-weight: 600;*/
    margin-left: 100px;
 
 }
-
-
 
 h2{font-family: "新ゴ L";
    margin-left: 120px;
@@ -18,9 +16,9 @@ h2{font-family: "新ゴ L";
 
 ul li{list-style-type: none;
    
-   font-size: 30px;
+   font-size: 25px;
    margin-left: 80px;
-   line-height: 30px;
+   line-height: 10px;
    display: inline;
    position: inside;
    text-decoration: none;
@@ -30,6 +28,7 @@ ul li{list-style-type: none;
 ul li a{line-height: 100px;
 　　
 }
+
 ul li#mail{   
    font-size: 20px;
    list-style-image: url("img/mailmark.png");
@@ -47,6 +46,7 @@ a:hover{background-color:#a4ecee;}
 
 a.yellow:hover{background-color:#fff700;}
 a.pink:hover{background-color:#ff6bab;}
+a.orange:hover{background-color:#ffab00;}
 
 
 
@@ -59,8 +59,9 @@ a.pink:hover{background-color:#ff6bab;}
 }
 
 a.facebook{font-size: 20px;
+     
 }
-a.facebook:hover{background-color:#ffab00;
+a.facebook:hover{background-color:#ffffff;
 	
 }
 
