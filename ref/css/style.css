@@ -57,6 +57,26 @@ a.white:hover{none;}
 	width: 960px;
 }
 
+#edi{display:inline;
+    position: relative;
+    top: 75px;
+	left: 28px;
+}
+
+#gra{display:inline;
+    position: relative;
+    top: 75px;
+	left: 150px;
+}
+
+#web{display:inline;
+    position: relative;
+    top: 75px;
+	left: 265px;
+}
+
+
+
 ul.ie{margin-top:10px;
 	  margin-bottom: 0px;
 }
