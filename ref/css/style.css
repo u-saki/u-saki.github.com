@@ -75,6 +75,9 @@ a.white:hover{none;}
 	left: 265px;
 }
 
+ul.foot{font-family:"museo-sans";
+	
+}
 
 
 ul.ie{margin-top:10px;
@@ -109,6 +112,12 @@ ul.ie a:hover {
 	
 }
 
+
+ul.foot{font-family:"museo-sans";
+	
+}
+
+
 .hitori1{margin:0　0　50px　0;
 	 
 }
@@ -119,6 +128,8 @@ a.facebook{font-size: 20px;
 a.facebook:hover{background-color:#ffffff;
 	
 }
+
+
 
 /*.menue ul li #mail{list-style-type: none;
    
