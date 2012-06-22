@@ -79,6 +79,9 @@ a.white:hover{none;}
 }
 
 ul.foot{font-family:"museo-sans";
+	position: relative;
+	left: 80px;
+	padding-left: 10px;
 	
 }
 
@@ -120,7 +123,7 @@ ul.foot{font-family:"museo-sans";
 	
 	}
 
-#copy{font-size:15px;
+.copy{font-size:15px;
 	display:inline;
 }
 
