@@ -48,8 +48,41 @@ a:hover{background-color:#a4ecee;}
 a.yellow:hover{background-color:#fff700;}
 a.pink:hover{background-color:#ff6bab;}
 a.orange:hover{background-color:#ffab00;}
-a.white:hover{background-color: #ffffff;}
+a.white:hover{none;}
 
+
+#container {}
+.contents {
+	margin: 0 auto;
+	width: 960px;
+}
+
+ul.ie{margin-top:10px;
+	  margin-bottom: 0px;
+}
+
+ul.ie a:hover {
+	background: none;
+}
+
+#ie1{display:inline;
+    position: relative;
+	top:52px;
+	left:31px;
+}
+#ie2{display:inline;
+    position: relative;
+	top:50px;
+	left:158px;
+}
+#ie3{display:inline;
+	position: relative;
+	top:52px;
+	left:285px;
+}
+
+#idyama{margin-top:0px;
+}
 
 
 .menue{font-family:"museo-sans";
