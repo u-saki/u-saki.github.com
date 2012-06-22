@@ -3,7 +3,7 @@
 h1{font-family:"learning-curve-dashed";
    /*font-weight: normal;*/
    font-size: 7em;
-   /*font-weight: 600;*/
+   font-weight: 200;
    margin-top: 30px;
    margin-bottom:-15px;
 
@@ -80,8 +80,9 @@ a.white:hover{none;}
 
 ul.foot{font-family:"museo-sans";
 	position: relative;
-	left: 80px;
+	left: 120px;
 	padding-left: 10px;
+	padding-right:0px;
 	
 }
 
@@ -93,6 +94,7 @@ ul.ie{margin-top:10px;
 ul.ie a:hover {
 	background: none;
 }
+ul.ie a{text-decoration: none;}
 
 #ie1{display:inline;
     position: relative;
@@ -120,8 +122,12 @@ ul.ie a:hover {
 
 
 ul.foot{font-family:"museo-sans";
+	text-decoration: none;
 	
 	}
+	
+ul.foot a{text-decoration: none;
+}
 
 .copy{font-size:15px;
 	display:inline;
