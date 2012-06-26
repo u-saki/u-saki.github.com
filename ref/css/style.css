@@ -25,7 +25,7 @@ ul li{list-style-type: none;
    margin-left: 80px;
    line-height: 10px;
    display: inline;
-   position: inside;
+   /*position: inside;*/
    text-decoration: none;
 }
 
@@ -51,7 +51,7 @@ a:hover{background-color:#a4ecee;}
 a.yellow:hover{background-color:#fff700;}
 a.pink:hover{background-color:#ff6bab;}
 a.orange:hover{background-color:#ffab00;}
-a.white:hover{none;}
+/*a.white:hover{background-color:none;}*/
 
 
 #container {}
@@ -146,6 +146,8 @@ a.facebook:hover{background-color:#ffffff;
 }
 
 .contents2 li{display:list-item;
+	
+	
 }
 
 
@@ -158,11 +160,11 @@ a.facebook:hover{background-color:#ffffff;
 	text-align: left;
 	height: 100%;
 	top: 0;
-    left: 0;
+    left: -80px;
     padding-top: 30px;
     background-color: red;
-    width: 100px;
-    height: 100px;
+     /*width: 100px;
+    height: 100px;*/
 }
     
     
