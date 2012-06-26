@@ -146,6 +146,7 @@ a.facebook:hover{background-color:#ffffff;
 	
 }
 
+ul#contents{displaay:block;}
 
 
    
@@ -162,6 +163,7 @@ a.facebook:hover{background-color:#ffffff;
     
 #main{margin-left: 256px;
 	padding: 30px;
+	border-left-style:dotted;
 	
 }
 
