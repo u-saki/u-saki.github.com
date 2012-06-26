@@ -3,7 +3,7 @@
 h1{font-family:"learning-curve-dashed";
    /*font-weight: normal;*/
    font-size: 7em;
-   font-weight: 300px;
+   font-weight: 200px;
    margin-top: 30px;
    margin-bottom:-10px;
    margin-left: 15px;
@@ -27,11 +27,10 @@ ul li{list-style-type: none;
    display: inline;
    position: inside;
    text-decoration: none;
-　　
 }
 
 ul li a{line-height: 100px;
-　　
+
 }
 
 ul li#mail{   
@@ -135,7 +134,7 @@ ul.foot a{text-decoration: none;
 }
 
 
-.hitori1{margin:0　0　50px　0;
+.hitori1{margin:0 0 50px 0;
 	 
 }
 
@@ -146,25 +145,32 @@ a.facebook:hover{background-color:#ffffff;
 	
 }
 
-ul#contents{displaay:block;}
+.contents li{display:list-item;	outline: 1px solid black;
+}
 
 
    
----------------------------------------------
-#sidebar{position: fixed;
+/*---------------------------------------------*/
+.sidebar{
+	
+	position: fixed;
 	width: 256px;
 	text-align: left;
 	height: 100%;
 	top: 0;
     left: 0;
     padding-top: 30px;
+    background-color: red;
+    width: 100px;
+    height: 100px;
 }
     
     
-#main{margin-left: 256px;
+.main{margin-left: 256px;
 	padding: 30px;
-	border-left-style:dotted;
-	
+	border-left-style:dashed ;
+	border-left-color:gray;
+	border-left-width: 1px;
 }
 
 
