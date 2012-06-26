@@ -6,11 +6,11 @@ h1{font-family:"learning-curve-dashed";
    font-weight: 300px;
    margin-top: 30px;
    margin-bottom:-10px;
-   margin-left: 10px;
+   margin-left: 15px;
 
 }
 
-h2{font-family: "新ゴ L";
+h2{font-family: "learning-curve-dashed";
    margin-left: 120px;
    margin-bottom: 0;
    
@@ -148,13 +148,21 @@ a.facebook:hover{background-color:#ffffff;
 
 
 
-/*.menue ul li #mail{list-style-type: none;
    
-   font-size: 5px;
-   margin-left: 80px;
-   line-height: 30px;
-   display: inline;
-   position: inside;
-   text-decoration: none;}
+---------------------------------------------
+#sidebar{position: fixed;
+	width: 256px;
+	text-align: left;
+	height: 100%;
+	top: 0;
+    left: 0;
+    padding-top: 30px;
+}
+    
+    
+#main{margin-left: 256px;
+	padding: 30px;
+	
+}
 
 
