@@ -191,9 +191,13 @@ a.facebook:hover{background-color:#ffffff;
 
 }
 
-.contents2 li{display:list-item;
+.contents2 li{
+	width:196px;
+	display:list-item;
 	line-height:25px;
 	font-size:18px;
+	margin-left: 75px;
+	
 	
 	
 }
@@ -230,5 +234,8 @@ ul .edi li{
 
 .sen{border-bottom-style: dashed;
 	border-bottom-width:1px;
+	margin-bottom: 10px;
+	
 }
 
+span{font-size: 8px;}
