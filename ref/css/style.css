@@ -38,7 +38,7 @@ ul li a{line-height: 100px;
 
 ul li#mail{   
    font-size: 20px;
-   list-style-image: url("img/mailmark.png");
+   list-style-image: url("../../img/top/mailmark.png");
    
 }
 
@@ -136,6 +136,7 @@ ul.ie a{text-decoration: none;}
 
 ul.foot{font-family:"museo-sans";
 	text-decoration: none;
+	left:200px;
 	
 	}
 	
@@ -151,12 +152,15 @@ ul.foot a{text-decoration: none;
 	 
 }
 
-a.facebook{font-size: 20px;
+a.facebook{font-size: 15px;
+           margin-right: -20px;
+           margin-left: -30px;
      
 }
-a.facebook:hover{background-color:#ffffff;
+a.facebook:hover{color:silver;
 	
 }
+
 
 
    
