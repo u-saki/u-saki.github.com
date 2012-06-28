@@ -11,10 +11,11 @@ h1{font-family:"learning-curve-dashed";
 }
 
 h2{font-family: "learning-curve-dashed";
-   font-size: 30px;
+   font-size: 20px;
    margin-left: 110px;
    margin-bottom: 50px;
    margin-top: -10px;
+   color:#1b1b1b;
    
 }   
 
@@ -196,7 +197,8 @@ a.facebook:hover{background-color:#ffffff;
 	display:list-item;
 	line-height:25px;
 	font-size:18px;
-	margin-left: 70px;
+	margin-left: 60px;
+	font-color:#1b1b1b;
 	
 	
 	
@@ -211,8 +213,15 @@ ul .edi{
 
 ul .edi li{
 	font-size: 12px;
+	padding-left: 20px;
+	line-height: 15px;
 }
 
+ul .edi .current{
+	background-image: url(../../img/work/sankaku.png);
+	background-repeat: no-repeat;
+	background-position: left center
+}
 #back{margin-left:110px;
 	margin-top: 50px;
 }
