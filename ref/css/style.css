@@ -54,7 +54,7 @@ a:hover{background-color:#a4ecee;}
 a.yellow:hover{background-color:#fff700;}
 a.pink:hover{background-color:#ff6bab;}
 a.orange:hover{background-color:#ffab00;}
-/*a.white:hover{background-color:none;}*/
+a.white:hover{color:silver;}
 
 
 #container {}
@@ -113,6 +113,16 @@ ul.ie a{text-decoration: none;}
 	position: relative;
 	top:52px;
 	left:285px;
+	}
+
+#ie3 a{background-image: url(img/top/ie3.png);
+	width:348px;
+	height:  439px;
+	background-repeat: no-repeat;
+}
+
+#ie3 a:hover{background-image: url(../../img/top/ie3_2.png);
+		background-repeat: no-repeat;
 }
 
 #idyama{margin-top:0px;
