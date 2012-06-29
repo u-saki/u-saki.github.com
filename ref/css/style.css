@@ -20,7 +20,7 @@ h2{font-family: "learning-curve-dashed";
 }  
 
 h3{font-family:中ゴシックBBB JIS2004;
-	font-size: 25px;
+	font-size: 28px;
 	margin-top: -15px;
 } 
 
@@ -279,4 +279,14 @@ span{font-size: 8px;}
 
 .box{border-bottom: 1px dashed #3798ff;
 	padding-bottom: 10px; /* 内容と線との間隔量 */
+	width: 300px;
+	margin-bottom: 30px
+}
+
+.day{font-family:中ゴシックBBB JIS2004;
+     font-size: 10px;
+ }
+ 
+.caption{font-family:中ゴシックBBB JIS2004;
+	font-size: 12px;
 }
