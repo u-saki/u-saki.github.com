@@ -69,7 +69,7 @@ a.white:hover{color:silver;}
 
 #container {}
 .contents {
-	margin: 0 auto;
+	margin:0 auto;
 	width: 960px;
 }
 
@@ -170,6 +170,7 @@ ul.ie a{text-decoration: none;}
 
 
 .menue{font-family:"museo-sans";
+	margin-top: 50px;
 	
 }
 
