@@ -41,6 +41,8 @@ ul li{list-style-type: none;
 }
 
 ul li a{line-height: 100px;
+	text-decoration: none;
+
 
 }
 
@@ -80,13 +82,13 @@ a.white:hover{color:silver;}
 #gra{display:inline;
     position: relative;
     top: 75px;
-	left: 150px;
+	left: 140px;
 }
 
 #web{display:inline;
     position: relative;
     top: 75px;
-	left: 265px;
+	left: 250px;
 }
 
 ul.foot{font-family:"museo-sans";
@@ -147,8 +149,8 @@ ul.ie a{text-decoration: none;}
 
 #ie3{display:inline;
 	position: relative;
-	top:56px;
-	left:284px;
+	top:57px;
+	left:283px;
 	}
 
 #ie3 a{background-image: url(../../img/top/ie3.png);
@@ -174,15 +176,17 @@ ul.ie a{text-decoration: none;}
 
 ul.foot{font-family:"museo-sans";
 	text-decoration: none;
-	left:200px;
+	left:300px;
+	margin-top: -30px;
 	
 	}
 	
 ul.foot a{text-decoration: none;
 }
 
-.copy{font-size:15px;
+.copy{font-size:13px;
 	display:inline;
+	margin-right: -10px;
 }
 
 
@@ -190,7 +194,7 @@ ul.foot a{text-decoration: none;
 	 
 }
 
-a.facebook{font-size: 15px;
+a.facebook{font-size: 14px;
            margin-right: -20px;
            margin-left: -30px;
      
@@ -199,12 +203,15 @@ a.facebook:hover{color:silver;
 	
 }
 
+#profile{margin-left:50px;}
+
 #profile a{background-image:url(../../img/top/profile.png);
 	background-repeat: no-repeat;
 	width:45px;
 	height: 16px;
 	text-indent: -9999px;
 	display: inline-block;
+	margin-bottom: -5px;
 }
 
 #profile a:hover{background-image:url(../../img/top/profile2.png);
@@ -345,3 +352,25 @@ span{font-size: 8px;}
 }
 
 img .img aki{margin-bottom:15px;}
+
+ul.foot #mail2{display: inline-block;
+	margin:50px -50px 0 -50px;
+}
+
+ul.foot #mail2 a{background-image: url(../../img/top/mailmark.png);
+	background-repeat: no-repeat;
+	width: 20px;
+	height:16px;
+	display:inline-block;
+	text-indent: -9999px;
+	margin-bottom: -5px;
+}
+
+ul.foot #mail2 a:hover{background-image: url(../../img/top/mailmark_2.png);
+	background-repeat: no-repeat;
+	width: 20px;
+	height:16px;
+	display:inline-block;
+	
+}
+
