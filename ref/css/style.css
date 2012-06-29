@@ -285,8 +285,10 @@ span{font-size: 8px;}
 
 .day{font-family:中ゴシックBBB JIS2004;
      font-size: 10px;
+     line-height:15px;
  }
  
 .caption{font-family:中ゴシックBBB JIS2004;
 	font-size: 12px;
+	line-height:15px;
 }
