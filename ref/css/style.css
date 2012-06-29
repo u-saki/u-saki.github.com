@@ -17,7 +17,12 @@ h2{font-family: "learning-curve-dashed";
    margin-top: -10px;
    color:#1b1b1b;
    
-}   
+}  
+
+h3{font-family:中ゴシックBBB;
+	font-size: 20px;
+	margin-top: -15px;
+} 
 
 
    
@@ -271,3 +276,7 @@ ul .edi .current{
 span{font-size: 8px;}
 
 #listaki{line-height: 20px;}
+
+.box{border-bottom: 1px dashed #3798ff;
+	padding-bottom: 10px; /* 内容と線との間隔量 */
+}
