@@ -14,7 +14,7 @@ h2{font-family: "learning-curve-dashed";
    font-size: 25px;
    margin-left: 110px;
    margin-bottom: 50px;
-   margin-top: -10px;
+   margin-top: -5px;
    color:#1b1b1b;
    
 }  
@@ -22,7 +22,7 @@ h2{font-family: "learning-curve-dashed";
 h3{font-family:中ゴシックBBB JIS2004;
 	font-size: 28px;
 	margin-top: -15px;
-	margin-bottom: 15px;
+	margin-bottom: 10px;
 	
 } 
 
@@ -272,6 +272,7 @@ ul .edi .current{
 .sen{border-bottom-style: dashed;
 	border-bottom-width:1px;
 	margin-bottom: 10px;
+	
 	
 }
 
