@@ -301,6 +301,7 @@ ul .edi .current{
 	line-height:20px;
 }	
 
+
 	
 
 
@@ -308,7 +309,7 @@ ul .edi .current{
 	margin-top: 150px;
 }
 
-#b{display: block;
+#b a{display: block;
 	margin-left:75px;
 	margin-bottom: 10px;
 	text-decoration: none;
@@ -317,6 +318,8 @@ ul .edi .current{
 #b a:hover{
 	background-image: url(../../img/work/back2.png);
     background-color: transparent;
+    color:silver;
+    text-decoration: none;
 }
 
 .aki .edi li a{margin-bottom:20px;
