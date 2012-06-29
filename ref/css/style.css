@@ -270,7 +270,7 @@ a.facebook:hover{color:silver;
 .contents2 li{
 	width:198px;
 	display:list-item;
-	line-height:25px;
+	line-height:80px;
 	font-size:18px;
 	margin-left: 60px;
 	font-color:#1b1b1b;
@@ -328,11 +328,13 @@ ul .edi .current{
 .sen{border-bottom-style: dashed;
 	border-bottom-width:1px;
 	margin-bottom: 10px;
+	height:55px;
+	
 	
 	
 }
 
-span{font-size: 8px;}
+span{font-size: 9px;}
 
 #listaki{line-height: 20px;}
 
@@ -374,4 +376,15 @@ ul.foot #mail2 a:hover{background-image: url(../../img/top/mailmark_2.png);
 	display:inline-block;
 	
 }
+
+.contents{line-height:20px;}
+
+/*----------------------------------------------------*/
+
+.box2{border-bottom: 1px dashed #ded703;
+	padding-bottom: 10px; /* 内容と線との間隔量 */
+	width: 300px;
+	margin-bottom: 30px;
+}
+
 
