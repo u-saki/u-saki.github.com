@@ -112,28 +112,58 @@ ul.ie a{text-decoration: none;}
 	top:52px;
 	left:31px;
 }
+
+#ie1 a{background-image: url(../../img/top/ie1.png);
+	width:84px;
+	height:108px;
+	background-repeat:no-repeat;
+	display:inline-block;
+	text-indent: -9999px;
+}
+
+#ie1 a:hover{background-image:url(../../img/top/ie1_2.png);
+		background-repeat: no-repeat;
+}
+
+
 #ie2{display:inline;
     position: relative;
-	top:50px;
+	top:57px;
 	left:158px;
 }
+
+#ie2 a{background-image: url(../../img/top/ie2.png);
+	width:84px;
+	height:102px;
+	background-repeat:no-repeat;
+	display:inline-block;
+	text-indent: -9999px;
+}
+
+#ie2 a:hover{background-image:url(../../img/top/ie2_2.png);
+		background-repeat: no-repeat;
+}
+
+
 #ie3{display:inline;
 	position: relative;
-	top:52px;
-	left:285px;
+	top:56px;
+	left:284px;
 	}
 
 #ie3 a{background-image: url(../../img/top/ie3.png);
-	width:348px;
-	height:439px;
+	width:84px;
+	height:105px;
 	background-repeat:no-repeat;
+	display:inline-block;
+	text-indent: -9999px;
 }
 
 #ie3 a:hover{background-image:url(../../img/top/ie3_2.png);
 		background-repeat: no-repeat;
 }
 
-#idyama{margin-top:0px;
+#yama{margin-top:43px;
 }
 
 
@@ -167,6 +197,21 @@ a.facebook{font-size: 15px;
 }
 a.facebook:hover{color:silver;
 	
+}
+
+#profile a{background-image:url(../../img/top/profile.png);
+	background-repeat: no-repeat;
+	width:45px;
+	height: 16px;
+	text-indent: -9999px;
+	display: inline-block;
+}
+
+#profile a:hover{background-image:url(../../img/top/profile2.png);
+	background-repeat: no-repeat;
+	width:45px;
+	height: 16px;
+
 }
 
 
@@ -266,7 +311,7 @@ ul .edi .current{
     background-color: transparent;
 }
 
-.aki{margin-bottom:20px;
+.aki .edi li a{margin-bottom:20px;
     text-decoration: none;
 
 	
