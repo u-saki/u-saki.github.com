@@ -390,4 +390,13 @@ ul.foot #mail2 a:hover{background-image: url(../../img/top/mailmark_2.png);
 	margin-bottom: 30px;
 }
 
+.box3{border-bottom: 1px dashed #3798ff;
+	padding-bottom: 10px; /* 内容と線との間隔量 */
+	width: 300px;
+	margin-bottom: 30px;
+	margin-top: 30px; 
+}
 
+
+/*画像間のあき*/
+#photo img{margin-bottom: 10px;}
