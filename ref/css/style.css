@@ -328,11 +328,16 @@ ul .edi .current{
 	
 }
 
+/*worksのメニュー*/
 .sen{border-bottom-style: dashed;
 	border-bottom-width:1px;
 	margin-bottom: 10px;
 	height:55px;
+	cursor:pointer;
 	
+}
+
+.sen a:hover{color:silver;
 	
 	
 }
