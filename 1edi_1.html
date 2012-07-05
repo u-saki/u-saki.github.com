@@ -8,14 +8,28 @@
 	<script type="text/javascript" src="http://typesquare.com/accessor/script/typesquare.js?jWWNGq3BytY%3D" charset="utf-8"></script>
 	<script type="text/javascript" src="http://use.typekit.com/cmx7wqj.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+<script type="text/javascript">
+	$(function(){
+		$('.edi').hide();
+		$('.aki').click(function(){
+			$(this)
+				.find('.edi')
+				.stop(true,true)
+				.animate({
+					height:'toggle'
+					},300)
+		});
+	});
+</script>
 
 </head>
 
 <body>
 <div class="sidebar">
 	<h2>Uchiyama Saki</h2>
-	<ul class="contents2">
 	
+	<ul class="contents2">
 	 <li class="aki"><div class="sen">Editorial</div>
 	    <ul class="edi">
 	    <li class="current">ひとりの日々</li>
@@ -23,8 +37,18 @@
 	    <li><a id="listaki" href="1edi_3.html">レタリング<span>　明朝書体を支えるもの</span></a></li>
 	    </ul>
 	 </li>
-	 <li class="aki"><div class="sen"><a class="contents" href="2gra.html">Graphic</a></div></li>
-	 <li class="aki"><div class="sen"><a class="contents" href="3web.html">Web Site</a></div></li>
+	 
+	 <li class="aki"><div class="sen">Graphic</div>
+	  <ul class="edi">
+	    <li class="current">niginigi</li>
+	  </ul>
+	 </li>
+	 
+	 <li class="aki"><div class="sen">Web Site</div>
+	  <ul class="edi">
+	    <li class="current">eizo</li>
+	  </ul>
+	 </li>	
 	</ul>
 
 	<div id="back">
